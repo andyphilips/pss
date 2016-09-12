@@ -1,0 +1,12 @@
+Package: pss
+Title: Perform bounds test for cointegration and perform dynamic simulations.
+Version: 0.1.3.9000
+Authors@R: c(person("Soren", "Jordan", email = "sorenjordanpols@gmail.com", role = c("aut", "cre","cph")), person("Andrew Q.", "Philips", email = "aphilips@pols.tamu.edu", role = c("aut")))
+Maintainer: Soren Jordan <sorenjordanpols@gmail.com>
+Description: Provides the critical values of the Pesaran, Shin, and Smith (2001) bounds test for cointegration. Also creates dynamic simulations of the resulting ARDL models (IN PROGRESS).
+Depends: R (>= 3.0.1)
+License: GPL (>= 2)
+Date: 2016-09-10
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
