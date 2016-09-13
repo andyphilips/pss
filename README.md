@@ -10,15 +10,12 @@ NOTE: This package is under development. If any bugs are found, please direct th
 
 ## Download
 To download `pss`, you will need to obtain the `devtools` package and make a call from R to GitHub:
-
-`install.packages("devtools")`
-
-`library(devtools)`
-
-`install_github("andyphilips/pss")`
-
-`library(pss)`
-
+```
+install.packages("devtools")
+library(devtools)
+install_github("andyphilips/pss")
+library(pss)
+```
 You should now be ready to use `pss`.
 
 ## Authors
