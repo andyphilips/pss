@@ -26,7 +26,7 @@ Andrew Q Philips, Department of Political Science, Texas A&M University. aphilip
 ## Citation
 If you use `pss`, please cite:
 
-Jordan, Soren and Andrew Q. Philips. "pss: Perform bounds test for cointegration and perform dynamic simulations."
+Jordan, Soren and Andrew Q. Philips. "pss: R package to perform the bounds test for cointegration and perform dynamic simulations."
 
 and
 
