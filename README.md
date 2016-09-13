@@ -22,9 +22,9 @@ To download `pss`, you will need to obtain the `devtools` package and make a cal
 You should now be ready to use `pss`.
 
 ## Authors
-Soren Jordan, Department of Political Science, Auburn University. sorenjordanpols@gmail.com. sorenjordan.com
+Soren Jordan, Department of Political Science, Auburn University. sorenjordanpols@gmail.com. http://sorenjordan.com
 
-Andrew Q Philips, Department of Political Science, Texas A&M University. aphilips@pols.tamu.edu. people.tamu.edu/~aphilips/
+Andrew Q Philips, Department of Political Science, Texas A&M University. aphilips@pols.tamu.edu. http://people.tamu.edu/~aphilips/
 
 ## Citation
 If you use `pss`, please cite:
