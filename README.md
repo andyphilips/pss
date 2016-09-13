@@ -2,11 +2,11 @@
 R package to perform bounds test for cointegration and perform dynamic simulations.
 
 ## Details
-`pss` is an `R` package to perform the Pesaran, Shin, and Smith (2001) bounds test for cointegration and perform dynamic simulations of the resulting output.
+`pss` is an R package to perform the Pesaran, Shin, and Smith (2001) bounds test for cointegration and perform dynamic simulations of the resulting output.
 
 Currently, only the bounds test function is operational (`pssbounds`); the dynamic function (`dynpss`) is still under development. For details on each of these programs, see http://andyphilips.github.io/pssbounds/ and http://andyphilips.github.io/dynpss/, respectively
 
-NOTE: This package is under development. If any bugs are found, please direct them to the authors.
+:warning: This package is under development. If any bugs are found, please direct them to the authors.
 
 ## Download
 To download `pss`, you will need to obtain the `devtools` package and make a call from R to GitHub:
@@ -21,7 +21,7 @@ You should now be ready to use `pss`.
 ## Authors
 Soren Jordan, Department of Political Science, Auburn University. sorenjordanpols@gmail.com. http://sorenjordan.com
 
-Andrew Q Philips, Department of Political Science, Texas A&M University. aphilips@pols.tamu.edu. http://people.tamu.edu/~aphilips/
+Andrew Q Philips, Department of Political Science, Texas A&M University. aphilips@pols.tamu.edu. http://people.tamu.edu/~aphilips/. @andyphilips.
 
 ## Citation
 If you use `pss`, please cite:
