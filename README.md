@@ -8,7 +8,7 @@ Currently, only the bounds test function is operational (`pssbounds`); the dynam
 
 NOTE: This package is under development. If any bugs are found, please direct them to the authors.
 
-### Download
+## Download
 To download `pss`, you will need to obtain the `devtools` package and make a call from R to GitHub:
 
 `install.packages("devtools")`
@@ -33,5 +33,9 @@ Jordan, Soren and Andrew Q. Philips. "pss: Perform bounds test for cointegration
 and
 
 Philips, Andrew Q. "Have your cake and eat it too? Cointegration and dynamic inference from autoregressive distributed lag models" Working Paper.
+
+## References
+Pesaran, M Hashem, Yongcheol Shin and Richard J Smith. 2001. "Bounds testing approaches to the analysis of level relationships." Journal of Applied Econometrics 16(3):289-326.
+
 ## Version
 0.1.3.9000
